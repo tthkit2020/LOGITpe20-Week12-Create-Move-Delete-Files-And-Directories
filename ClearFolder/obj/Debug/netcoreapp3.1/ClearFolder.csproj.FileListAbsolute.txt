@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.exe
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.deps.json
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.dll
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.pdb
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.dll
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.pdb
+C:\Users\julia.voronetskaja\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.genruntimeconfig.cache
